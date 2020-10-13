@@ -1,0 +1,6 @@
+id,label,ts_in,ts_out,dim_0,dim_1
+1,customer-1,1,8,2,8
+2,customer-2,4,14,4,10
+3,customer-3,10,15,6,11
+4,customer-4,3,8,8,12
+5,customer-5,5,15,9,10

@@ -1,0 +1,6 @@
+id,label,ts_in,ts_out,dim_0,dim_1
+1,product-1,2,10,6,3
+2,product-2,6,13,4,12
+3,product-3,9,15,6,15
+4,product-4,4,9,9,5
+5,product-5,5,15,12,10
